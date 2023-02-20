@@ -1,0 +1,4 @@
+Bundle-Name: updatepwdJspBag
+Bundle-SymbolicName: updatepwdjspbag
+Bundle-Version: 1.0.0
+Export-Package: updatepwdjspbag.constants
